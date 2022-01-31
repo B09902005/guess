@@ -1,0 +1,3 @@
+這個資料夾有 wordle 跟 hangman 兩個遊戲，單字庫都是高中七千單。
+
+注意：請盡量在 terminal 或是 command line 上面跑這個程式，不要在 idle 上跑，不然字體顏色會出錯。
